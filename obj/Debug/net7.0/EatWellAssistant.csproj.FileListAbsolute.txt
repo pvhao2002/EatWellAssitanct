@@ -221,3 +221,16 @@ E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\runtimes\win\lib\net
 E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 E:\workspace\hutech do an\EatWellAssistant\obj\Debug\net7.0\EatWellAssistant.csproj.CopyComplete
+E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\EntityFramework.dll
+E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\EntityFramework.SqlServerCompact.dll
+E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\System.Data.SqlServerCe.dll
+E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\System.CodeDom.dll
+E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\workspace\hutech do an\EatWellAssistant\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
