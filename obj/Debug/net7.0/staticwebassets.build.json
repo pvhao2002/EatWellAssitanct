@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "C3qln6omvBDNm9e5mIR0fNK+0BObwlANTGC1oMvXg+Y=",
+  "Source": "EatWellAssistant",
+  "BasePath": "_content/EatWellAssistant",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EatWellAssistant\\wwwroot",
+      "Source": "EatWellAssistant",
+      "ContentRoot": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\",
+      "BasePath": "_content/EatWellAssistant",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\workspace\\hutech do an\\EatWellAssistant\\obj\\Debug\\net7.0\\scopedcss\\bundle\\EatWellAssistant.styles.css",
+      "SourceId": "EatWellAssistant",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\workspace\\hutech do an\\EatWellAssistant\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/EatWellAssistant",
+      "RelativePath": "EatWellAssistant.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\workspace\\hutech do an\\EatWellAssistant\\obj\\Debug\\net7.0\\scopedcss\\bundle\\EatWellAssistant.styles.css"
+    },
+    {
+      "Identity": "E:\\workspace\\hutech do an\\EatWellAssistant\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EatWellAssistant.bundle.scp.css",
+      "SourceId": "EatWellAssistant",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\workspace\\hutech do an\\EatWellAssistant\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/EatWellAssistant",
+      "RelativePath": "EatWellAssistant.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\workspace\\hutech do an\\EatWellAssistant\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EatWellAssistant.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\favicon.ico",
+      "SourceId": "EatWellAssistant",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\",
+      "BasePath": "_content/EatWellAssistant",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
