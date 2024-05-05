@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EatWellAssistant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c88ae0d2247b1c734c40d5e8e8d9b06ca4903fe4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EatWellAssistant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EatWellAssistant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,55 +9,113 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EatWellAssistant
 build_property.RootNamespace = EatWellAssistant
-build_property.ProjectDir = D:\doanSP\EatWellAssitanct\EatWellAssitanct\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = E:\workspace\hutech do an\EatWellAssistant\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\doanSP\EatWellAssitanct\EatWellAssitanct
+build_property.MSBuildProjectDirectory = E:\workspace\hutech do an\EatWellAssistant
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/doanSP/EatWellAssitanct/EatWellAssitanct/Areas/Admin/Views/Account/Index.cshtml]
+[E:/workspace/hutech do an/EatWellAssistant/Areas/Admin/Views/Account/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/doanSP/EatWellAssitanct/EatWellAssitanct/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+[E:/workspace/hutech do an/EatWellAssistant/Areas/Admin/Views/Category/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/workspace/hutech do an/EatWellAssistant/Areas/Admin/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/workspace/hutech do an/EatWellAssistant/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/workspace/hutech do an/EatWellAssistant/Areas/Admin/Views/Food/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/workspace/hutech do an/EatWellAssistant/Areas/Admin/Views/Food/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/workspace/hutech do an/EatWellAssistant/Areas/Admin/Views/Food/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/workspace/hutech do an/EatWellAssistant/Areas/Admin/Views/HomeAdmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/doanSP/EatWellAssitanct/EatWellAssitanct/Areas/Admin/Views/Shared/_Layout.cshtml]
+[E:/workspace/hutech do an/EatWellAssistant/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/doanSP/EatWellAssitanct/EatWellAssitanct/Areas/Admin/Views/Shared/_PartiaSideBar.cshtml]
+[E:/workspace/hutech do an/EatWellAssistant/Areas/Admin/Views/Shared/_PartiaSideBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9QYXJ0aWFTaWRlQmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/doanSP/EatWellAssitanct/EatWellAssitanct/Views/Home/Index.cshtml]
+[E:/workspace/hutech do an/EatWellAssistant/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/workspace/hutech do an/EatWellAssistant/Views/Authentication/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/workspace/hutech do an/EatWellAssistant/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/workspace/hutech do an/EatWellAssistant/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/workspace/hutech do an/EatWellAssistant/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/doanSP/EatWellAssitanct/EatWellAssitanct/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[E:/workspace/hutech do an/EatWellAssistant/Views/Material/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/doanSP/EatWellAssitanct/EatWellAssitanct/Views/Shared/Error.cshtml]
+[E:/workspace/hutech do an/EatWellAssistant/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/doanSP/EatWellAssitanct/EatWellAssitanct/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/workspace/hutech do an/EatWellAssistant/Views/Shared/_Client.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DbGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/workspace/hutech do an/EatWellAssistant/Views/Shared/_CTA.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DVEEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/workspace/hutech do an/EatWellAssistant/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/workspace/hutech do an/EatWellAssistant/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/workspace/hutech do an/EatWellAssistant/Views/Shared/_Testimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UZXN0aW1vbmlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/workspace/hutech do an/EatWellAssistant/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/doanSP/EatWellAssitanct/EatWellAssitanct/Views/_ViewImports.cshtml]
+[E:/workspace/hutech do an/EatWellAssistant/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/doanSP/EatWellAssitanct/EatWellAssitanct/Views/_ViewStart.cshtml]
+[E:/workspace/hutech do an/EatWellAssistant/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/doanSP/EatWellAssitanct/EatWellAssitanct/Views/Shared/_Layout.cshtml]
+[E:/workspace/hutech do an/EatWellAssistant/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w66vz7medl

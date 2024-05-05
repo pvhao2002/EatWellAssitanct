@@ -1,0 +1,42 @@
+﻿@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers;
+@model X.PagedList.IPagedList<EatWellAssistant.Models.Entities.Food>
+@{
+    ViewData["Title"] = "Material";
+}
+
+<section class="features2">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-4">
+                    <div class="feature-block d-lg-flex">
+                        <div class="feature-item mb-5 mb-lg-0">
+                            <div class="feature-icon mb-4">
+                                <img src=@Url.Content(item.imageUrl) alt="Feature Icon" style="width: 200px; height: 130px;">
+                            </div>
+                            <span>@item.foodName</span>
+                            <h4 class="mb-3">@item.category.categoryName</h4>
+                            <p class="mb-4">@item.caloriesPerGram calories per 100gram</p>
+                            <a href="/Material/Detail/@item.foodId" class="btn btn-main btn-outline-primary">Detail</a>
+                            <a href="/Material/Order/@item.foodId" class="btn btn-main btn-primary">Order</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+    <div class="container">
+        <div class="d-flex justify-content-center align-items-center">
+            @Html.PagedListPager(Model, p => Url.Action("Index", "Material",
+            new { page = p }),
+            new PagedListRenderOptions
+                {
+                LiElementClasses = new string[] { "page-item" },
+                PageClasses = new string[] { "page-link" }
+        })
+        </div>
+    </div>
+</section>
