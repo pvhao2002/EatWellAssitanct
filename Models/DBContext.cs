@@ -1,5 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using static NuGet.Packaging.PackagingConstants;
+﻿using EatWellAssistant.Models.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace EatWellAssistant.Models
 {
@@ -9,5 +9,15 @@ namespace EatWellAssistant.Models
         {
 
         }
+
+        public virtual DbSet<Users> Users { get; set; }
+        public virtual DbSet<Profile> Profile { get; set; }
+        public virtual DbSet<Cart> Cart { get; set; }
+        public virtual DbSet<CartItems> CartItems { get; set; }
+        public virtual DbSet<Category> Category { get; set; }
+        public virtual DbSet<Food> Food { get; set; }
+        public virtual DbSet<Meal> Meal { get; set; }
+        public virtual DbSet<MealDetail> MealDetail { get; set; }
+        public virtual DbSet<PlanMeal> PlanMeal { get; set; }
     }
 }

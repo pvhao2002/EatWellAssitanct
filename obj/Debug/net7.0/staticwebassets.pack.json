@@ -5,6 +5,1486 @@
       "PackagePath": "staticwebassets\\EatWellAssistant.bundle.scp.css"
     },
     {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\admin\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\admin\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\admin\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\admin\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\admin\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.ico"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\admin\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\admin\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\admin\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\admin\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\admin\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\admin\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\admin\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\js\\misc.js",
+      "PackagePath": "staticwebassets\\admin\\js\\misc.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\js\\todo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\todo.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\admin\\js\\todolist.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_demo.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_footer.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_misc.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_reset.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_typography.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\style.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\client\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\css\\site.css",
+      "PackagePath": "staticwebassets\\client\\css\\site.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\css\\style.css",
+      "PackagePath": "staticwebassets\\client\\css\\style.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\css\\style2.css",
+      "PackagePath": "staticwebassets\\client\\css\\style2.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\about\\05.png",
+      "PackagePath": "staticwebassets\\client\\images\\about\\05.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\about\\1.png",
+      "PackagePath": "staticwebassets\\client\\images\\about\\1.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\about\\2.png",
+      "PackagePath": "staticwebassets\\client\\images\\about\\2.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\about\\3.png",
+      "PackagePath": "staticwebassets\\client\\images\\about\\3.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\about\\4.png",
+      "PackagePath": "staticwebassets\\client\\images\\about\\4.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\about\\5.png",
+      "PackagePath": "staticwebassets\\client\\images\\about\\5.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\about\\6.png",
+      "PackagePath": "staticwebassets\\client\\images\\about\\6.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\about\\img-1.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\about\\img-1.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\about\\img-2.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\about\\img-2.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\about\\img-3.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\about\\img-3.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\about\\sign.png",
+      "PackagePath": "staticwebassets\\client\\images\\about\\sign.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\bg\\22.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\bg\\22.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\bg\\LOGIN.png",
+      "PackagePath": "staticwebassets\\client\\images\\bg\\LOGIN.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\bg\\alexander-schimmeck-2zJhA9RSkys-unsplash.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\bg\\alexander-schimmeck-2zJhA9RSkys-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\bg\\banner.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\bg\\banner.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\bg\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\bg\\bg-2.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\bg\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\bg\\bg-4.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\bg\\dose-juice-sTPy-oeA3h0-unsplash.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\bg\\dose-juice-sTPy-oeA3h0-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\bg\\jimmy-dean-Yn0l7uwBrpw-unsplash.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\bg\\jimmy-dean-Yn0l7uwBrpw-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\bg\\jon-tyson-XPiDj19gjG8-unsplash.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\bg\\jon-tyson-XPiDj19gjG8-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\bg\\nick-fewings-gpP-OkJ5BbI-unsplash.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\bg\\nick-fewings-gpP-OkJ5BbI-unsplash.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\bg\\slider-bg-1.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\bg\\slider-bg-1.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\1.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\1.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\10.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\10.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\11.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\11.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\12.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\12.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\13.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\13.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\14.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\14.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\15.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\15.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\16.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\16.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\17.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\17.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\18.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\18.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\2.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\2.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\3.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\3.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\4.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\4.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\5.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\5.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\6.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\6.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\7.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\7.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\8.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\8.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\detail\\9.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\detail\\9.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\1.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\1.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\10.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\10.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\11.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\11.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\12.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\12.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\13.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\13.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\14.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\14.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\15.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\15.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\16.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\16.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\17.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\17.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\18.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\18.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\19.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\19.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\2.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\2.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\20.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\20.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\21.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\21.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\22.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\22.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\23.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\23.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\24.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\24.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\25.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\25.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\26.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\26.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\27.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\27.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\28.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\28.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\29.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\29.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\3.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\3.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\30.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\30.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\31.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\31.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\32.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\32.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\33.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\33.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\34.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\34.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\35.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\35.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\36.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\36.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\37.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\37.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\38.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\38.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\39.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\39.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\4.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\4.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\40.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\40.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\41.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\41.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\42.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\42.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\43.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\43.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\44.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\44.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\45.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\45.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\46.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\46.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\47.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\47.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\48.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\48.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\49.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\49.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\5.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\5.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\50.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\50.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\51.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\51.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\52.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\52.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\53.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\53.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\54.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\54.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\55.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\55.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\56.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\56.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\57.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\57.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\58.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\58.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\59.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\59.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\6.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\6.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\60.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\60.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\61.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\61.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\62.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\62.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\63.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\63.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\64.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\64.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\65.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\65.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\66.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\66.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\67.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\67.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\68.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\68.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\69.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\69.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\7.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\7.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\70.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\70.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\71.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\71.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\72.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\72.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\73.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\73.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\8.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\8.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\food\\9.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\food\\9.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\logo.png",
+      "PackagePath": "staticwebassets\\client\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\team\\1.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\team\\2.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\team\\3.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\team\\4.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\team\\test-thumb1.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\team\\test-thumb1.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\team\\test-thumb2.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\team\\test-thumb2.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\team\\test-thumb3.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\team\\test-thumb3.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\images\\team\\test-thumb4.jpg",
+      "PackagePath": "staticwebassets\\client\\images\\team\\test-thumb4.jpg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\js\\Cart.js",
+      "PackagePath": "staticwebassets\\client\\js\\Cart.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\js\\contact.js",
+      "PackagePath": "staticwebassets\\client\\js\\contact.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\js\\script.js",
+      "PackagePath": "staticwebassets\\client\\js\\script.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\js\\site.js",
+      "PackagePath": "staticwebassets\\client\\js\\site.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\client\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\client\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\client\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\client\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\client\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\client\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\client\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\client\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\client\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\client\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\client\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\client\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\client\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\client\\plugins\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\client\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\client\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\client\\plugins\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\counterup\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\client\\plugins\\counterup\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\counterup\\jquery.easing.js",
+      "PackagePath": "staticwebassets\\client\\plugins\\counterup\\jquery.easing.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\counterup\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\client\\plugins\\counterup\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\google-map\\map.js",
+      "PackagePath": "staticwebassets\\client\\plugins\\google-map\\map.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\icofont\\demo.html",
+      "PackagePath": "staticwebassets\\client\\plugins\\icofont\\demo.html"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\icofont\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\client\\plugins\\icofont\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\icofont\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\client\\plugins\\icofont\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\icofont\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\client\\plugins\\icofont\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\icofont\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\client\\plugins\\icofont\\fonts\\icofont.woff2"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\icofont\\icofont.css",
+      "PackagePath": "staticwebassets\\client\\plugins\\icofont\\icofont.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\icofont\\icofont.min.css",
+      "PackagePath": "staticwebassets\\client\\plugins\\icofont\\icofont.min.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\client\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\shuffle\\shuffle.min.js",
+      "PackagePath": "staticwebassets\\client\\plugins\\shuffle\\shuffle.min.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\slick-carousel\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\client\\plugins\\slick-carousel\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\slick-carousel\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\client\\plugins\\slick-carousel\\slick\\config.rb"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\slick-carousel\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\client\\plugins\\slick-carousel\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\slick-carousel\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\client\\plugins\\slick-carousel\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\slick-carousel\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\client\\plugins\\slick-carousel\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\slick-carousel\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\client\\plugins\\slick-carousel\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\slick-carousel\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\client\\plugins\\slick-carousel\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\slick-carousel\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\client\\plugins\\slick-carousel\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\slick-carousel\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\client\\plugins\\slick-carousel\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\slick-carousel\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\client\\plugins\\slick-carousel\\slick\\slick.css"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\slick-carousel\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\client\\plugins\\slick-carousel\\slick\\slick.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\slick-carousel\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\client\\plugins\\slick-carousel\\slick\\slick.less"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\slick-carousel\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\client\\plugins\\slick-carousel\\slick\\slick.min.js"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\plugins\\slick-carousel\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\client\\plugins\\slick-carousel\\slick\\slick.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\_color.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\_color.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\_common.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\_media-query.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\_media-query.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\_typography.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\style.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_about.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_about.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_backgrounds.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_backgrounds.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_blog.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_blog.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_contact.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_contact.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_counter.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_counter.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_cta.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_cta.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_department.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_department.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_feature.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_feature.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_footer.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_footer.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_header.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_header.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_navigation.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_navigation.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_portfolio.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_portfolio.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_review.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_review.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_service.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_service.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_single-post.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_single-post.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_slider.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_slider.scss"
+    },
+    {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\scss\\templates\\_team.scss",
+      "PackagePath": "staticwebassets\\client\\scss\\templates\\_team.scss"
+    },
+    {
       "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
