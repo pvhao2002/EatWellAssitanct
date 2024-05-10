@@ -115,12 +115,22 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
     color: #fff;
     border-color: #FEF889;
 }
-
-    .btn-main:hover {
-        background: #A2CD5A;
-        border-color: #A2CD5A;
+.btn-outline-main {
+    background: #fff;
+    color: #F1AF00;
+    border-color: #FEF889;
+}
+    .btn-outline-main:hover {
+        background: #F1AF00;
         color: #fff;
+        border-color: #FEF889;
     }
+
+.btn-main:hover {
+    background: #A2CD5A;
+    border-color: #A2CD5A;
+    color: #fff;
+}
 
 .btn-main-2 {
     background: #F1AF00;
@@ -1555,3 +1565,9 @@ a:focus {
     border-radius: 10px; /* Bo viền với bán kính 10px */
 }
 
+.btn-sm {
+    padding: 0.25rem 0.5rem !important;
+    font-size: 0.875rem !important;
+    line-height: 1.5 !important;
+    border-radius: 0.2rem !important;
+}

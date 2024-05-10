@@ -16,10 +16,6 @@ namespace EatWellAssistant.Models.Entities
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int cartId { get; set; }
-
-        [ForeignKey("Users")]
-        public int? userId { get; set; }
-
         public int? totalGram { get; set; }
         public decimal? totalCalories { get; set; }
         public decimal? totalProtein { get; set; }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3zvWxeFmB0c82j6X+4p9TNi8+0wK0uv5UxaiGsC5M5Gcvxf04vW51eiwPuW8Sq8Xsef0CkIBrGtg6rYY6ptGSg==",
+  "dgSpecHash": "kvqSJEmQkTPCqRhuB191zCZ1l2xkhoRpP3kpKY8rkY8ee2qSov97Wu1JnNKNYZmVfPkS2Z0QYjdOhNM73jVTWw==",
   "success": true,
   "projectFilePath": "E:\\workspace\\hutech do an\\EatWellAssistant\\EatWellAssistant.csproj",
   "expectedPackageFiles": [
@@ -78,6 +78,8 @@
     "C:\\Users\\haodeptrai\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.0.0\\microsoft.aspnetcore.mvc.core.2.0.0.nupkg.sha512",
     "C:\\Users\\haodeptrai\\.nuget\\packages\\microsoft.aspnetcore.mvc.dataannotations\\2.0.0\\microsoft.aspnetcore.mvc.dataannotations.2.0.0.nupkg.sha512",
     "C:\\Users\\haodeptrai\\.nuget\\packages\\microsoft.aspnetcore.mvc.formatters.json\\2.0.0\\microsoft.aspnetcore.mvc.formatters.json.2.0.0.nupkg.sha512",
+    "C:\\Users\\haodeptrai\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\haodeptrai\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\7.0.18\\microsoft.aspnetcore.mvc.razor.runtimecompilation.7.0.18.nupkg.sha512",
     "C:\\Users\\haodeptrai\\.nuget\\packages\\microsoft.aspnetcore.mvc.viewfeatures\\2.0.0\\microsoft.aspnetcore.mvc.viewfeatures.2.0.0.nupkg.sha512",
     "C:\\Users\\haodeptrai\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
     "C:\\Users\\haodeptrai\\.nuget\\packages\\microsoft.aspnetcore.responsecaching.abstractions\\2.0.0\\microsoft.aspnetcore.responsecaching.abstractions.2.0.0.nupkg.sha512",

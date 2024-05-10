@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EatWellAssistant.Migrations
 {
     [DbContext(typeof(DBContext))]
-    [Migration("20240505104149_Initial Migration")]
-    partial class InitialMigration
+    [Migration("20240509161651_Init Migration")]
+    partial class InitMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -56,9 +56,6 @@ namespace EatWellAssistant.Migrations
 
                     b.Property<DateTime?>("updatedAt")
                         .HasColumnType("datetime2");
-
-                    b.Property<int?>("userId")
-                        .HasColumnType("int");
 
                     b.Property<int>("usersuserId")
                         .HasColumnType("int");
@@ -270,9 +267,6 @@ namespace EatWellAssistant.Migrations
                     b.Property<DateTime?>("date")
                         .HasColumnType("datetime2");
 
-                    b.Property<int?>("userId")
-                        .HasColumnType("int");
-
                     b.Property<int>("usersuserId")
                         .HasColumnType("int");
 
@@ -323,17 +317,14 @@ namespace EatWellAssistant.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("email")
-                        .IsRequired()
                         .HasMaxLength(255)
                         .HasColumnType("nvarchar(255)");
 
                     b.Property<string>("fullName")
-                        .IsRequired()
                         .HasMaxLength(255)
                         .HasColumnType("nvarchar(255)");
 
                     b.Property<string>("password")
-                        .IsRequired()
                         .HasMaxLength(255)
                         .HasColumnType("nvarchar(255)");
 
@@ -341,12 +332,10 @@ namespace EatWellAssistant.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("role")
-                        .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
                     b.Property<string>("status")
-                        .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 

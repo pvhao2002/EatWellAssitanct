@@ -25,7 +25,7 @@
                 </div>
             </div>
         </div>
-        <div class="row" id="login">
+        <div class="row feature-item" id="login">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 @using (Html.BeginForm("doLogin", "Authentication", FormMethod.Post, new
                 {
@@ -47,7 +47,7 @@
                 }
             </div>
         </div>
-        <div class="row d-none" id="signup">
+        <div class="row feature-item d-none" id="signup">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 @using (Html.BeginForm("doSignUp", "Authentication", FormMethod.Post, new
                 {
@@ -88,12 +88,15 @@
     const containerRegister = document.getElementById('signup');
     const btnRegister = document.getElementById('btnRegister');
     const btnLogin = document.getElementById('btnLogin');
+    const text = document.getElementById('text');
     btnRegister.addEventListener('click', function () {
         containerLogin.classList.add('d-none');
         containerRegister.classList.remove('d-none');
+        text.innerText = 'Đăng ký';
     });
     btnLogin.addEventListener('click', function () {
         containerLogin.classList.remove('d-none');
         containerRegister.classList.add('d-none');
+        text.innerText = 'Đăng nhập';
     });
 </script>

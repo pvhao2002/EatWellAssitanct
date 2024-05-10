@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Y7S/Oh+Tl1u8uWAbgr1Pwc43elwPECx3Bkm37EKDwq4=",
+  "Hash": "qaoMm1Y8MrmlW4cG4wWFTGeX/4tUljbHHpi13TEupS4=",
   "Source": "EatWellAssistant",
   "BasePath": "_content/EatWellAssistant",
   "Mode": "Default",
@@ -1698,6 +1698,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\client\\css\\authentication.css"
+    },
+    {
+      "Identity": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\css\\food-detail.css",
+      "SourceId": "EatWellAssistant",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\",
+      "BasePath": "_content/EatWellAssistant",
+      "RelativePath": "client/css/food-detail.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\client\\css\\food-detail.css"
     },
     {
       "Identity": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\css\\maps\\style.css.map",

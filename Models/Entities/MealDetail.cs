@@ -16,7 +16,6 @@ namespace EatWellAssistant.Models.Entities
         public int? foodId { get; set; }
 
         public int gram { get; set; }
-        public decimal? caloriesPerGram { get; set; }
         public decimal? totalCalories { get; set; }
         public decimal? totalProtein { get; set; }
         public decimal? totalCarb { get; set; }

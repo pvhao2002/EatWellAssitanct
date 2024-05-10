@@ -24,8 +24,7 @@ namespace EatWellAssistant.Areas.Admin.Controllers
 
         public IActionResult Logout()
         {
-            HttpContext.Session.SetInt32("user_id", 0);
-            HttpContext.Session.SetString("userFullName", string.Empty);
+            Response.Cookies.Delete("UserId");
             return RedirectToAction("Index", "Home", new { area = "" });
         }
     }

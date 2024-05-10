@@ -5,7 +5,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<DBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("web")));
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddHttpContextAccessor();
-
+builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 builder.Services.AddSession(options =>
 {
     options.Cookie.Name = ".SuperMemory.Session";

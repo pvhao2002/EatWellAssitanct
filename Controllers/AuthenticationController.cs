@@ -28,7 +28,7 @@ namespace EatWellAssistant.Controllers
             }
             else
             {
-                if (!isExistEmail.password.Equals(u.password))
+                if (!u.password.Equals(isExistEmail?.password))
                 {
                     ViewData["Msg"] = "Username or password invalid";
                 }
@@ -38,11 +38,15 @@ namespace EatWellAssistant.Controllers
                 }
                 else
                 {
+                    Response.Cookies.Append("UserId", isExistEmail.userId.ToString(), new CookieOptions
+                    {
+                        Expires = DateTime.Now.AddDays(30)
+                    });
                     if ("user".Equals(isExistEmail.role))
                     {
                         return RedirectToAction("Index", "Home");
                     }
-                    else if ("admin".Equals(isExistEmail.role.ToLower()))
+                    else if ("admin".Equals(isExistEmail?.role.ToLower()))
                     {
                         return RedirectToAction("Index", "HomeAdmin", new { area = "Admin" });
                     }
@@ -70,6 +74,12 @@ namespace EatWellAssistant.Controllers
                 ViewData["Msg"] = "Register successfully";
             }
             return View("Index");
+        }
+
+        public IActionResult Logout()
+        {
+            Response.Cookies.Delete("UserId");
+            return RedirectToAction("Index");
         }
     }
 }

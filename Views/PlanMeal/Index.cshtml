@@ -1,0 +1,119 @@
+﻿@model PlanMealViewModel
+@{
+    ViewData["Title"] = "Plan Meal";
+}
+<head>
+    <style>
+        .btn-main-2 {
+            padding: 0.55rem 0.75rem !important;
+            font-size: 0.675rem !important;
+            line-height: 1.5 !important;
+            width: 7.5rem !important;
+        }
+
+        .day-title {
+            font-size: 22px !important;
+        }
+
+        .mr-90 {
+            margin-right: -110px !important;
+        }
+    </style>
+</head>
+@if (ViewBag.error != null)
+{
+    <script>
+            alert('@ViewBag.error');
+            @ViewBag.error;
+    </script>
+}
+
+<section class="features">
+    <form method="post">
+        <div class="container-fluid">
+            <div class="row mr-90">
+                <div class="col-5">
+                    <div class="feature-item d-flex flex-column">
+                        <div class="mt-5 d-flex flex-column table-responsive overflow-auto" style="max-height: 500px !important;">
+                            <h4>Giỏ hàng</h4>
+                            <table class="table table-bordered table-hover table-striped">
+                                <thead>
+                                    <tr>
+                                        <th scope="col" style="width: 10%;">Tên</th>
+                                        <th scope="col">Hình</th>
+                                        <th scope="col">Calo/ 100g</th>
+                                        <th scope="col">Số lượng</th>
+                                        <th scope="col">Tổng calo</th>
+                                        <th scope="col">#</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var f in Model.cart.cartItems)
+                                    {
+                                        <tr>
+                                            <td scope="row">@f.food.foodName</td>
+                                            <td scope="row">
+                                                <img src="@Url.Content(f.food.imageUrl)"
+                                                     alt="img" style="width: 60px; height: 60px; object-fit: contain" />
+                                            </td>
+                                            <td scope="row">@f.food.caloriesPerGram / 100g</td>
+                                            <td scope="row">@(f.gram * 100) g</td>
+                                            <td scope="row">@f.totalCalories g</td>
+                                            <td> <input type="checkbox" class="selection" name="selection" value="@f.cartItemId" /> </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                                <tfoot>
+                                    <tr>
+                                        <td colspan="4" class="text-end fw-bold font-weight-bold">Tổng cộng:</td>
+                                        <td class="font-weight-bold">@Model.cart.totalCalories g</td>
+                                    </tr>
+                                </tfoot>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <div class="feature-item col-6 row">
+                    @foreach (var day in Model.listDay)
+                    {
+                        <div class="col-2">
+                            <h3 class="day-title">@day.ToLongDateString()</h3>
+                            <button formaction="/PlanMeal/Breakfast/@Model.listDay.ToList().IndexOf(day)" class="btn btn-main-2 btn-icon btn-round-full">
+                                Breakfast
+                            </button>
+                            <button formaction="/PlanMeal/Lunch/@Model.listDay.ToList().IndexOf(day)" class="btn btn-main-2 btn-icon btn-round-full">
+                                Lunch
+                            </button>
+                            <button formaction="/PlanMeal/Dinner/@Model.listDay.ToList().IndexOf(day)" class="btn btn-main-2 btn-icon btn-round-full">
+                                Dinner
+                            </button>
+                            <button formaction="/PlanMeal/Check/@Model.listDay.ToList().IndexOf(day)" class="btn btn-main-2 btn-icon btn-round-full">
+                                Check
+                            </button>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </form>
+</section>
+
+<script>
+    const listChk = document.querySelectorAll('input[type="checkbox"]');
+    const listBtn = document.querySelectorAll('button');
+    listBtn.forEach(button => {
+        button.addEventListener('click', function () {
+            let isChecked = false;
+            listChk.forEach(checkbox => {
+                if (checkbox.checked) {
+                    isChecked = true;
+                }
+            });
+
+            if (!isChecked) {
+                event.preventDefault();
+                alert('Vui lòng chọn ít nhất một checkbox.');
+            }
+        });
+    });
+</script>

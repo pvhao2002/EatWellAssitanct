@@ -393,6 +393,10 @@
       "PackagePath": "staticwebassets\\client\\css\\authentication.css"
     },
     {
+      "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\css\\food-detail.css",
+      "PackagePath": "staticwebassets\\client\\css\\food-detail.css"
+    },
+    {
       "Id": "E:\\workspace\\hutech do an\\EatWellAssistant\\wwwroot\\client\\css\\maps\\style.css.map",
       "PackagePath": "staticwebassets\\client\\css\\maps\\style.css.map"
     },

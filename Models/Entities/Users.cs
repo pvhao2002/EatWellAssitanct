@@ -18,19 +18,19 @@ namespace EatWellAssistant.Models.Entities
         public int userId { get; set; }
 
         [StringLength(255)]
-        public string email { get; set; }
+        public string? email { get; set; }
 
         [StringLength(255)]
-        public string password { get; set; }
+        public string? password { get; set; }
 
         [StringLength(255)]
-        public string fullName { get; set; }
+        public string? fullName { get; set; }
 
         [StringLength(50)]
-        public string role { get; set; }
+        public string? role { get; set; }
 
         [StringLength(50)]
-        public string status { get; set; }
+        public string? status { get; set; }
 
         [ForeignKey("Profile")]
         public int? profileId { get; set; }

@@ -15,13 +15,10 @@ namespace EatWellAssistant.Models.Entities
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int planMealId { get; set; }
 
-        [ForeignKey("Users")]
-        public int? userId { get; set; }
-
         public DateTime? date { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Meal> meals { get; set; }
-        public virtual Users users { get; set; }
+        public virtual Users users { get; set; } = new();
     }
 }
