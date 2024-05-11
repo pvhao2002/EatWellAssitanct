@@ -26,7 +26,7 @@ namespace EatWellAssistant.Controllers
                 .Include(item => item.cartItems)
                 .ThenInclude(item => item.food)
                 .FirstOrDefault(item => item.users.userId == user.userId);
-            var viewModel = new CartViewModel(cartByUser, new Models.Entities.CartItems());
+            var viewModel = new CartViewModel(cartByUser ?? new Cart(), new Models.Entities.CartItems());
             return View(viewModel);
         }
 
