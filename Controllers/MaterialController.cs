@@ -47,7 +47,7 @@ namespace EatWellAssistant.Controllers
                 .ThenInclude(item => item.food)
                 .FirstOrDefault(item => item.users.userId == user.userId)
                 : new Cart();
-            return new MaterialViewModel(listProduct, listCate, p, c, cartByUser);
+            return new MaterialViewModel(listProduct, listCate, p, c, cartByUser ?? new Cart());
         }
 
         public IActionResult Order(int? id, int? quantity, int? page, int? cate)

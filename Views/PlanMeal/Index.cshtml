@@ -18,6 +18,9 @@
         .mr-90 {
             margin-right: -110px !important;
         }
+        .fs-6 {
+            font-size: 12px;
+        }
     </style>
 </head>
 @if (ViewBag.error != null)
@@ -56,9 +59,9 @@
                                                 <img src="@Url.Content(f.food.imageUrl)"
                                                      alt="img" style="width: 60px; height: 60px; object-fit: contain" />
                                             </td>
-                                            <td scope="row">@f.food.caloriesPerGram / 100g</td>
+                                            <td scope="row">@f.food.caloriesPerGram kcl</td>
                                             <td scope="row">@(f.gram * 100) g</td>
-                                            <td scope="row">@f.totalCalories g</td>
+                                            <td scope="row">@f.totalCalories kcal</td>
                                             <td> <input type="checkbox" class="selection" name="selection" value="@f.cartItemId" /> </td>
                                         </tr>
                                     }
@@ -74,20 +77,36 @@
                     </div>
                 </div>
                 <div class="feature-item col-6 row">
-                    @foreach (var day in Model.listDay)
+                    @for (int i=0; i<Model.listDay.Count; i++)
                     {
-                        <div class="col-2">
-                            <h3 class="day-title">@day.ToLongDateString()</h3>
-                            <button formaction="/PlanMeal/Breakfast/@Model.listDay.ToList().IndexOf(day)" class="btn btn-main-2 btn-icon btn-round-full">
-                                Breakfast
-                            </button>
-                            <button formaction="/PlanMeal/Lunch/@Model.listDay.ToList().IndexOf(day)" class="btn btn-main-2 btn-icon btn-round-full">
-                                Lunch
-                            </button>
-                            <button formaction="/PlanMeal/Dinner/@Model.listDay.ToList().IndexOf(day)" class="btn btn-main-2 btn-icon btn-round-full">
-                                Dinner
-                            </button>
-                            <button formaction="/PlanMeal/Check/@Model.listDay.ToList().IndexOf(day)" class="btn btn-main-2 btn-icon btn-round-full">
+                        var meal = Model.planMeals.FirstOrDefault(item => item.date.Value.Date == Model.listDay[i].Date);
+                        var breakfast = meal?.meals.FirstOrDefault(item => "Breakfast".Equals(item.mealName));
+                        var lunch = meal?.meals.FirstOrDefault(item => "Lunch".Equals(item.mealName));
+                        var dinner = meal?.meals.FirstOrDefault(item => "Dinner".Equals(item.mealName));
+
+                        <div class="col-4">
+                            <h3 class="day-title">@Model.listDay[i].ToLongDateString()</h3>
+                            <div class="fs-6">
+                                <button formaction="/PlanMeal/Breakfast?index=@i"
+                                        class="btn btn-main-2 btn-icon btn-round-full">
+                                    Breakfast
+                                </button> - @(breakfast?.totalCalories ?? 0)kcal
+                            </div>
+                            <div class="fs-6">
+                                <button formaction="/PlanMeal/Lunch?index=@i"
+                                        class="btn btn-main-2 btn-icon btn-round-full">
+                                    Lunch
+                                </button> - @(lunch?.totalCalories ?? 0)kcal
+                            </div>
+                            <div class="fs-6">
+                                <button formaction="/PlanMeal/Dinner?index=@i"
+                                        class="btn btn-main-2 btn-icon btn-round-full">
+                                    Dinner
+                                </button> - @(dinner?.totalCalories ?? 0)kcal
+                            </div>
+                            
+                            <button formaction="/PlanMeal/Check?index=@i" id="check"
+                                    class="btn btn-main-2 btn-icon btn-round-full">
                                 Check
                             </button>
                         </div>
@@ -102,18 +121,20 @@
     const listChk = document.querySelectorAll('input[type="checkbox"]');
     const listBtn = document.querySelectorAll('button');
     listBtn.forEach(button => {
-        button.addEventListener('click', function () {
-            let isChecked = false;
-            listChk.forEach(checkbox => {
-                if (checkbox.checked) {
-                    isChecked = true;
+        if (button.id !== 'check') {
+            button.addEventListener('click', function () {
+                let isChecked = false;
+                listChk.forEach(checkbox => {
+                    if (checkbox.checked) {
+                        isChecked = true;
+                    }
+                });
+
+                if (!isChecked) {
+                    event.preventDefault();
+                    alert('Vui lòng chọn ít nhất một checkbox.');
                 }
             });
-
-            if (!isChecked) {
-                event.preventDefault();
-                alert('Vui lòng chọn ít nhất một checkbox.');
-            }
-        });
+        }
     });
 </script>

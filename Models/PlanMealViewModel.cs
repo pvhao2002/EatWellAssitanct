@@ -4,14 +4,22 @@ namespace EatWellAssistant.Models
 {
     public class PlanMealViewModel
     {
-        public ICollection<DateTime> listDay { get; set; }
+        public List<DateTime> listDay { get; set; }
         public Cart cart { get; set; }
-        public PlanMealViewModel(Cart cart)
+        public List<PlanMeal> planMeals { get; set; }
+        public DateTime day { get; set; }
+        public PlanMeal plan { get; set; }
+        public PlanMealViewModel(Cart cart, List<PlanMeal> planMeal, List<DateTime> dayList)
         {
             this.cart = cart;
-            var today = DateTime.Now;
-            this.listDay = Enumerable.Range(0, 6)
-                .Select(day => today.AddDays(day)).ToList();
+            this.listDay = dayList;
+            this.planMeals = planMeal;
+        }
+
+        public PlanMealViewModel getPlanDetail(DateTime d, PlanMeal p)
+        {
+            this.day = d; this.plan = p;
+            return this;
         }
     }
 }
